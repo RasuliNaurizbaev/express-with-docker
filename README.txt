@@ -1,0 +1,1 @@
+Docker run codes folder -> touch Dockerfile -> js files -> then need write in terminal this codes “ docker build -t express-docker . ”, “ docker run --rm -p 3000:3000 express-docker ” 
